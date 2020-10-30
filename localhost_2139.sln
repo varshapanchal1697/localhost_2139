@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SalesKing-Admin", "http://localhost:2139", "{04D7EF4C-7C36-4A0D-A25A-DBEE9C795917}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_2139"
+		Debug.AspNetCompiler.PhysicalPath = "D:\New folder\My Docs\work\SalesKing-Admin\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_2139\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_2139"
+		Release.AspNetCompiler.PhysicalPath = "D:\New folder\My Docs\work\SalesKing-Admin\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_2139\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "D:\New folder\My Docs\work\SalesKing-Admin\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04D7EF4C-7C36-4A0D-A25A-DBEE9C795917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04D7EF4C-7C36-4A0D-A25A-DBEE9C795917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E908616E-9323-4FA0-9891-1841D51EBF91}
+	EndGlobalSection
+EndGlobal
